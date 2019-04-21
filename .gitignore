@@ -1,0 +1,8 @@
+.settings
+Debug
+doc
+.cproject
+.project
+FRDMK64F_I2C_Accelerometer PE Debug.launch
+TaskDice_Test PE Debug.launch
+TaskDice_Test.mex
